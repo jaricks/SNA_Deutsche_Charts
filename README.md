@@ -1,1 +1,0 @@
-# SNA_Deutsche_Charts
