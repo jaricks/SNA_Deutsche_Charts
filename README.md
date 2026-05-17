@@ -1,7 +1,7 @@
 # SNA Deutsche Charts 🎵
 
 Kollaborationsnetzwerk der erfolgreichsten deutschsprachigen Songs der Jahre 2015–2025.  
-Semesterprojekt im Kurs **Netzwerkanalyse** (226305) an der **Hochschule der Medien Stuttgart**, Studiengang **Crossmedia-Redaktion/Public Relations (CR/PR)**.
+Semesterprojekt im Modul Netzwerk- und Beziehungsmanagement (226305) an der Hochschule der Medien Stuttgart, Studiengang Crossmedia-Redaktion/Public Relations (CR/PR).
 
 **Autor:innen:** Jannes Rickerts, Emma Idestroem, Lilli Zenth, Alisa Wilhelm, Anna Stauß
 
@@ -13,15 +13,15 @@ Semesterprojekt im Kurs **Netzwerkanalyse** (226305) an der **Hochschule der Med
 |---|---|
 | `Nodelist` | Alle Knoten des Netzwerks (Songs, Akteure, Labels) |
 | `Edgelist` | Alle Kanten des Netzwerks (Verbindungen mit Rollen) |
-| `CODEBUCH.md` | Vollständige Dokumentation aller Variablen der Node- und Edgelist |
-| `Wer_macht_den_Hit.Rmd` | Vollständiger R-Analyse-Code mit Kommentaren |
+| `Codebuch.md` | Vollständige Dokumentation aller Variablen der Node- und Edgelist |
+| `Forschungsbericht.Rmd` | Vollständiger R-Analyse-Code mit Kommentaren |
 
 ---
 
 ## Datengrundlage
 
-Die Daten basieren auf den **Offiziellen Deutschen Charts** (GfK / offiziellecharts.de).  
-Erfasst wurden die **zehn erfolgreichsten deutschsprachigen Songs pro Jahr** für den Zeitraum 2015–2025 (97 Songs nach Bereinigung von Mehrfachnennungen).
+Die Daten basieren auf den Offiziellen Deutschen Charts (offiziellecharts.de).  
+Erfasst wurden die zehn erfolgreichsten deutschsprachigen Songs pro Jahr für den Zeitraum 2015–2025 (97 Songs nach Bereinigung von Mehrfachnennungen).
 
 Zu jedem Song wurden folgende Beteiligte manuell recherchiert und kodiert:
 
@@ -29,12 +29,6 @@ Zu jedem Song wurden folgende Beteiligte manuell recherchiert und kodiert:
 - Songwriter:innen
 - Produzent:innen
 - Label (inkl. Zuordnung zu den Mutterkonzernen Warner, Sony, Universal)
-
----
-
-## Codebuch
-
-Die vollständige Dokumentation aller Variablen, ID-Konventionen und Kodierregeln für Node- und Edgelist ist in der Datei **[CODEBUCH.md](CODEBUCH.md)** im Repository hinterlegt.
 
 ---
 
