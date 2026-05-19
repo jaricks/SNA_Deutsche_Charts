@@ -14,7 +14,7 @@ Semesterprojekt im Modul Netzwerk- und Beziehungsmanagement (226305) an der Hoch
 | `Nodelist` | Alle Knoten des Netzwerks (Songs, Akteure, Labels) |
 | `Edgelist` | Alle Kanten des Netzwerks (Verbindungen mit Rollen) |
 | `Codebuch.md` | Vollständige Dokumentation aller Variablen der Node- und Edgelist |
-| `Forschungsbericht.Rmd` | Vollständiger R-Analyse-Code mit Kommentaren |
+| `Behind the Beat – Kollaborationsnetzwerke im deutschsprachigen Musikmarkt 2015–2025.rmd` | Vollständiger R-Code und Forschungsbericht |
 
 ---
 
