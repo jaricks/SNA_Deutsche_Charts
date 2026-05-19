@@ -1,4 +1,4 @@
-# SNA Deutsche Charts 🎵
+# SNA Deutsche Charts
 
 Kollaborationsnetzwerk der erfolgreichsten deutschsprachigen Songs der Jahre 2015–2025.  
 Semesterprojekt im Modul Netzwerk- und Beziehungsmanagement (226305) an der Hochschule der Medien Stuttgart, Studiengang Crossmedia-Redaktion/Public Relations (CR/PR).
